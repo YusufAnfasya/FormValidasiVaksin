@@ -1,0 +1,38 @@
+
+
+header{
+    margin: auto;
+
+
+    background: rgba(255, 255, 255, 0.445);
+    box-sizing: border-box;
+    border-radius: 5px;
+    text-align: center;
+    font-size: smaller;
+    
+}
+
+.dsc{
+    text-align: center;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    font-style: oblique;
+}
+
+.jarak{
+    padding: 0.2%;
+}
+
+footer
+{
+    padding-top: 10%;
+    padding-bottom: 20%;
+    text-align: center;
+    
+}
+
+.form-text{
+    
+    font-weight: bold;
+}
